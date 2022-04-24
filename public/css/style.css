@@ -1,0 +1,28 @@
+
+/*Register form*/
+.register-form{
+    padding: 20px 15px;;
+}
+
+.control-formulaio{
+    display: block;
+    margin-bottom: 15px;
+}
+
+.bottom-register{
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.bottom.nuevoUsuario{
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
